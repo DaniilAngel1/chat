@@ -30,22 +30,4 @@ PySide6-Addons==6.3.1
 PySide6-Essentials==6.3.1
 pyttsx3==2.90
 pywebio==1.6.1
-pywin32==304
 requests==2.27.1
-rfc3986==1.5.0
-rich==12.4.4
-setuptools==58.1.0
-shiboken6==6.3.1
-sniffio==1.2.0
-soupsieve==2.3.2.post1
-SpeechRecognition==3.8.1
-speedtest== 0.0.1
-sqlparse==0.4.2
-tornado==6.1
-translate==3.6.1
-translator==0.0.9
-tzdata==2022.1
-ua-parser==0.10.0
-urllib3==1.26.9
-user-agents==2.2.0
-vk-api==11.9.9
